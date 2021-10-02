@@ -1,5 +1,7 @@
 # Next-Boilerplate
 
+nextjsのボイラープレート
+
 # 環境
 
 Docker + TypeScript + Next + jest
