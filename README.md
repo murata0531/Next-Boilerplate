@@ -20,6 +20,6 @@ $ docker-compose up
 
 立ち上がったら 
     
-    NextJS -> `http://localhost:3000` にアクセス
+NextJS -> `http://localhost:3000` にアクセス
     
-    Storybook -> `http://localhost:6006` にアクセス
+Storybook -> `http://localhost:6006` にアクセス
