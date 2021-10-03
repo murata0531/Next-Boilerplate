@@ -4,7 +4,21 @@ nextjsのボイラープレート
 
 # 環境
 
-Docker + TypeScript + Next + jest
+Docker
+
+TypeScript
+
+Next
+
+jest
+
+ESLint
+
+Prettier
+
+Storybook
+
+styled-components
 
 インストールしたいものがある場合(Dockerfileに書いても良い)
 
