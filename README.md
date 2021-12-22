@@ -28,6 +28,13 @@ styled-components
 $ docker-compose run --rm nextjs yarn add <追加したいライブラリなど>
 ```
 
+# 構築
+
+yarn更新
+```
+$ docker-compose run --rm nextjs yarn add yarn
+```
+
 コンテナ立ち上げ
 
 ```
